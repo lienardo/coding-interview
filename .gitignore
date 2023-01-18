@@ -1,0 +1,7 @@
+*
+
+# Exception
+!*.cpp
+!*/
+!.gitignore
+!README.md
