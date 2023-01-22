@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Time complexity: O(n), where n is the number of characters in s or t.
+// Space complexity: O(1), the maximum number of pairs in m is 26.
 class Solution {
  public:
   bool isAnagram(string s, string t) {

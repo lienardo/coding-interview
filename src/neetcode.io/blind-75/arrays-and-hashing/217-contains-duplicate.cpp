@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Time complexity: O(n), where n is the number of elements in nums.
+// Space complexity: O(n), where n is the number of elements in nums.
 class Solution {
  public:
   bool containsDuplicate(vector<int>& nums) {
